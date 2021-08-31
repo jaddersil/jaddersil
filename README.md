@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jaddersil
-- 👀 I’m interested in programming, Rapid Application Development (RAD).
+- 👀 I’m interested in programming.
 - 🌱 I’m currently learning Django, Python, PostgreSQL, SQLite, Git.
 - 💞️ I’m looking to collaborate on projects for beginners.
 
